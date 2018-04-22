@@ -1,8 +1,5 @@
-# the_first_app
-
-A new Flutter application.
+# NameGenerator
+Flutter - The first app
 
 ## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+For help getting started with Flutter [documentation](https://flutter.io/).
